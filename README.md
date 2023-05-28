@@ -1,6 +1,5 @@
-### <h1>Hi I AM DANIEL</h1>
 
-### <h2>My name is Nikita. I am a beginner frontend developer.</h2>
+### <h2>My name is Vlad. I am a beginner frontend developer.</h2>
 
 ### Technologies: 
 
