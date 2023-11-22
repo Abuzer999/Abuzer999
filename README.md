@@ -13,4 +13,4 @@
 ![Flutter](https://img.shields.io/badge/-Photoshop-1c1d1f?style=for-the-badge&logo=AdobePhotoshop)
 
 ### Most used Languages
-(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
