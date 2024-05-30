@@ -9,6 +9,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" **alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" **alt="Gulp" width="40" height="40"/>
+</div>
+
+### libraries: 
+<div>
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/greensock.svg" title="GreenSock" **alt="GreenSock" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" **alt="Axios" width="40" height="40"/>
 </div>
 
