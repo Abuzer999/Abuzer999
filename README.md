@@ -11,9 +11,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" **alt="Gulp" width="40" height="40"/>
 </div>
 
-### libraries: 
+### Libraries: 
 <div>
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/greensock.svg" title="GreenSock" **alt="GreenSock" width="40" height="40"/>
+  <img src="https://gsap.com/docs/v3/Installation/?tab=npm&module=esm&method=private+registry&tier=free&club=false&require=false&trial=true&plugins=ScrollTrigger" title="GreenSock" **alt="GreenSock" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" **alt="Axios" width="40" height="40"/>
 </div>
 
