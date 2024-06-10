@@ -18,8 +18,8 @@
 
 ### Libraries
 <div>
-  <a href="https://greensock.com/gsap/" target="_blank">
-    <img style="margin: 10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gsap.svg" alt="GSAP" height="50" />
+   <a href="https://greensock.com/gsap/" target="_blank">
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/GreenSock_Logo.svg" alt="GSAP" height="50" />
   </a>
 </div>
 
