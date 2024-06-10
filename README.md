@@ -16,13 +16,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" **alt="Vue" width="40" height="40"/>&nbsp;
 </div>
 
-### Libraries
-<div>
-   <a href="https://greensock.com/gsap/" target="_blank">
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/GreenSock_Logo.svg" alt="GSAP" height="50" />
-  </a>
-</div>
-
 ### Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
