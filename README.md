@@ -16,11 +16,11 @@
 </div>
 
 ### Libraries:
-<div style="display: flex; justify-content: center; align-items: center;">
+<div>
   <img src="https://github.com/Abuse111/LibrariesIcon/blob/main/img/GreenShock.svg" title="GreenShock" **alt="GreenShock" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" **alt="Axios" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Abuse111/LibrariesIcon/blob/main/img/Swiper.svg" title="Swiper" **alt="Swiper" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Abuse111/LibrariesIcon/blob/main/img/SimpleBar.png" title="SimpleBar" **alt="SimpleBar" width="80" height="20"/>&nbsp;
+  <img src="https://github.com/Abuse111/LibrariesIcon/blob/main/img/SimpleBar.png" title="SimpleBar" **alt="SimpleBar" width="120" height="40"/>&nbsp;
 </div>
 
 ### Tools:
