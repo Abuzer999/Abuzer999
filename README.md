@@ -16,7 +16,7 @@
 </div>
 
 ### Libraries:
-<div>
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github.com/Abuse111/LibrariesIcon/blob/main/img/GreenShock.svg" title="GreenShock" **alt="GreenShock" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" **alt="Axios" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Abuse111/LibrariesIcon/blob/main/img/Swiper.svg" title="Swiper" **alt="Swiper" width="40" height="40"/>&nbsp;
