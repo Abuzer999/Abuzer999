@@ -17,11 +17,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="vite" **alt="vite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" **alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Abuse111/LibrariesIcon/blob/main/img/pinia.svg" title="Pinia" **alt="Pinia" width="40" height="40"/>
-  
-###GameDev:
-<img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" **alt="Godot" width="40" height="40"/>
 </div>
 
+###GameDev
+<div>
+<img     src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" **alt="Godot" width="40" height="40"/>
+</div>
 ### Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
